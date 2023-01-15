@@ -1,0 +1,20 @@
+pcall(function()
+   
+     local Codes = {
+        "THXGUYS",
+        "SUPERHEAT"
+       
+        
+}
+            for i, v in pairs(Codes) do
+                local args = {
+                    [1] = v
+                }
+
+                game:GetService("ReplicatedStorage").Knit.Services.CodesService.RF.Redeem:InvokeServer(unpack(args))
+           
+                
+                
+            end
+ end)
+ 
