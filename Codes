@@ -2,7 +2,8 @@ pcall(function()
    
      local Codes = {
         
-        "4MILLIONZ"
+        "4MILLIONZ",
+        "SLAY"
        
         
 }
