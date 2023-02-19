@@ -3,7 +3,8 @@ pcall(function()
      local Codes = {
         
        
-        "STAYHYDRATED"
+        "60KMEMBERS",
+"UGHFINE" 
        
         
 }
